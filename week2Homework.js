@@ -1,9 +1,9 @@
-let pizzaPlace = "MarkieMark's Sauce";
+let pizzaPlace = "MarkieMark's Pizza";
 let numberOfToppings = 20;
 console.log(typeof pizzaPlace);
 console.log(typeof numberOfToppings);
 console.log(
-  `Welcome to ${pizzaPlace}, where we have ${numberOfToppings} toppings to put on your lovely pizza pie`
+  `Welcome to ${pizzaPlace}, where we have ${numberOfToppings} toppings to put on your pizza!`
 );
 let qualQuan = "Quality, not quantity";
 let lotOfPizza = "A whole lot of pizza";
