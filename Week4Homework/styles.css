@@ -1,0 +1,56 @@
+body {
+  background-color: #7067cf;
+}
+
+.container {
+  padding: 10px;
+  margin: 20px 30% 20px 0;
+  border: 2px solid black;
+  color: #cbf3d2;
+  font-weight: 400;
+  font-size: larger;
+}
+
+#heading1 {
+  color: #cbf3d2;
+  background-color: #faa381;
+  margin: 25px 350px 0 0;
+  padding-left: 25px;
+  border-radius: 5px;
+}
+
+#footer {
+  color: #cbf3d2;
+  padding-left: 25px;
+}
+
+/* #heading1, #footer, body {
+    text-align: left;
+} */
+div > img {
+  padding: 20px;
+}
+
+.twoAnchorTags {
+  margin: 20px;
+  text-decoration: none;
+  color: #cbf3d2;
+}
+
+img {
+  height: 200px;
+  border-radius: 50%;
+}
+
+.points {
+  padding: 5px 25px;
+}
+
+.ytvid {
+  padding-left: 30px;
+}
+
+.paragraph {
+  color: #cbf3d2;
+  font-size: 20px;
+}
