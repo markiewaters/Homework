@@ -1,0 +1,55 @@
+html {
+    background-color: antiquewhite;
+    
+}
+
+body {
+    text-align: center;
+    font-size: 18px;
+    border: 2px solid black;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}
+
+div {
+    border: 2px solid burlywood;
+    /* margin: 10px; */
+}
+
+#introPic {
+    float: left;
+}
+/* #top {
+    /* width: 100%; } */
+
+#bio {
+    width: 100%;
+    margin-left: -35px;
+}
+
+#bio>ul {
+    padding: 2px;
+}
+
+@media (max-width: 750px) {
+#bio {
+        width: 100%;
+        /* padding-right: 50%; */
+        margin-left: -10%;
+    }
+    body {
+        width: 100%;
+        font-size: 1.1rem;
+    }
+    img {
+        width: 80%;
+        height: 80%;
+    }
+}
